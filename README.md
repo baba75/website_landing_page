@@ -11,11 +11,11 @@ Configuration
 Create the landing page with the web editor as usual, then you can find it as a view in Settings/Views menu. (You need to activate the developer mode)
 Open the view corresponding to the page, and sustitute the call to:
 
-<t t-call="website.layout">
+&lt;t t-call="website.layout"&gt;
 
 with
 
-<t t-call="website_landing_page.layout">
+&lt;t t-call="website_landing_page.layout"&gt;
 
 Bug Tracker
 ===========
