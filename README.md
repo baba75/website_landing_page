@@ -1,4 +1,5 @@
-#Website Landing Page
+Website Landing Page
+====================
 
 Landing pages are web pages designed to collect leads from a specific campaing. The customer click on a link from a specific email or advertising and arrives in the landing page. The landing page act as a funnel to collect leads. 
 It is importat that the user can exit the page only by compiling a form or by make the action designed.
@@ -19,8 +20,7 @@ with
 Bug Tracker
 ===========
 
-Bugs are tracked on `GitHub Issues
-<https://github.com/baba75/website_landing_page/issues>`_. In case of trouble, please
+Bugs are tracked on GitHub Issues <https://github.com/baba75/website_landing_page/issues>. In case of trouble, please
 check there if your issue has already been reported. If you spotted it first,
 help us smashing it by providing a detailed and welcomed feedback.
 
