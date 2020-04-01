@@ -17,6 +17,8 @@ with
 
 &lt;t t-call="website_landing_page.layout"&gt;
 
+Enter the page from the browser, from the customize menu you can activate/deactivate the landing page mode.
+
 Bug Tracker
 ===========
 
